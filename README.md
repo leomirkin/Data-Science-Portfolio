@@ -35,7 +35,7 @@ Welcome to my collection of study projects! Here, you'll find links to various G
 
 ### Projects and Courses
 
-- **[A/B Testing](Study Projects/A_B_Testing.ipynb)**: I dug into [A/B Testing] and uncovered some interesting insights using [Python].
+- **[A/B Testing](Study%20Projects/A_B_Testing.ipynb)**: I dug into [A/B Testing] and uncovered some interesting insights using [Python].
 - **[---](Projects/Study/project-repo)**: A fun project where I explored [specific techniques or datasets]. It helped me learn [specific skills or insights].
 - **[---](Projects/Study/project-repo)**: This project was all about [brief description]. It was a great way to practice [techniques or tools used].
 - **[---](Projects/Study/project-repo)**: Experimented with different machine learning models to solve [specific problem]. Learned a lot about [key takeaways].
