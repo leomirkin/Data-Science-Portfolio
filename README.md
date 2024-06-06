@@ -5,6 +5,7 @@ This repository contains a collection of my data analytics projects, showcasing 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Featured Projects](#featured-projects)
+- [Study Projects](#study-projects)
 - [Technical Skills](#technical-skills)
 - [Education and Certifications](#education-and-certifications)
 - [Contact](#contact)
@@ -27,6 +28,19 @@ Here are some of my projects. Each project includes a problem description, the m
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
+
+## Study Projects
+
+Welcome to my collection of study projects! Here, you'll find links to various GitHub repositories containing code and Jupyter notebooks I've put together while diving into online courses or just having fun with data. These projects represent my ongoing journey in the world of data analytics and my enthusiasm for continuous learning.
+
+### Projects and Courses
+
+- **[---](Projects/Study/project-repo)**: A fun project where I explored [specific techniques or datasets]. It helped me learn [specific skills or insights].
+- **[---](Projects/Study/project-repo)**: This project was all about [brief description]. It was a great way to practice [techniques or tools used].
+- **[---](Projects/Study/project-repo)**: I dug into [specific dataset] and uncovered some interesting insights using [methods or tools].
+- **[---](Projects/Study/project-repo)**: Experimented with different machine learning models to solve [specific problem]. Learned a lot about [key takeaways].
+
+These projects are my way of sharing what I've been up to in the realm of data analytics. Feel free to check them out and see what I've learned along the way!
 
 ## Technical Skills
 - **Programming Languages:** Python, SQL.
