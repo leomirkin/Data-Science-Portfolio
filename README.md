@@ -1,6 +1,6 @@
-# Data Analytics Portfolio
+# Data Science Portfolio
 
-This repository contains a collection of my data analytics projects, showcasing my skills in data manipulation, visualization, and the use of various tools and programming languages.
+This repository contains a collection of my data science projects, showcasing my skills in data manipulation, visualization, and the use of various tools and programming languages.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ This repository contains a collection of my data analytics projects, showcasing 
 - [Contact](#contact)
 
 ## Introduction
-Hi! I'm Leonardo Mirkin, a passionate data analyst with experience in transforming complex data into actionable insights. My goal is to leverage my analytical skills, and creativity, to solve problems and make data-driven decisions.
+Hi! I'm Leonardo Mirkin, a passionate data science with experience in transforming complex data into actionable insights. My goal is to leverage my analytical skills, and creativity, to solve problems and make data-driven decisions.
 
 ### Professional Objectives
 I'm looking for opportunities to apply my data analysis skills in a professional environment, where I can contribute to the success of the organization and continue to develop my competencies.
@@ -23,8 +23,10 @@ I'm looking for opportunities to apply my data analysis skills in a professional
 - **Modeling:** Experience in applying machine learning techniques and predictive models to solve business problems.
 
 ## Featured Projects
-Here are some of my projects. Each project includes a problem description, the methodology used, and the results obtained.
+Here, I showcase five data science projects, each escalating in conceptual complexity and the sophistication of the tools used. Each project starts with a description of the problem addressed, followed by the methodology applied, and concludes with the results obtained. This progression demonstrates my growing expertise as we move from basic data handling to advanced machine learning and big data analysis.
 
+- [---](Projects/--/README.md)
+- [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
