@@ -48,7 +48,7 @@ These projects are my way of sharing what I've been up to in the realm of data a
 - **Programming Languages:** Python, SQL.
 - **Visualization Tools:** Tableau, Power BI, Matplotlib, Seaborn.
 - **Data Analysis Software:** Excel, Google Sheets, Jupyter Notebook, Google Colab.
-- **Methodologies:** Machine Learning, Predictive Analysis, Time Series Analysis.
+- **Methodologies:** Exploratory Data Analysis (EDA), Predictive Modeling, Time Series Analysis, Machine Learning.
 
 ## Education and Certifications
 - **Degree:** Ongoing Bachelor's in Computer Science, [Universidad Nacional de Córdoba]
