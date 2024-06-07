@@ -11,7 +11,7 @@ This repository contains a collection of my data science projects, showcasing my
 - [Contact](#contact)
 
 ## Introduction
-Hi! I'm Leonardo Mirkin, a passionate data science with experience in transforming complex data into actionable insights. My goal is to leverage my analytical skills, and creativity, to solve problems and make data-driven decisions.
+Hi! I'm Leonardo Mirkin, a passionate data scientist with experience in transforming complex data into actionable insights. My goal is to leverage my analytical skills, and creativity, to solve problems and make data-driven decisions.
 
 ### Professional Objectives
 I'm looking for opportunities to apply my data analysis skills in a professional environment, where I can contribute to the success of the organization and continue to develop my competencies.
