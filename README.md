@@ -25,7 +25,7 @@ I'm looking for opportunities to apply my data analysis skills in a professional
 ## Featured Projects
 Here, I showcase five data science projects, each escalating in conceptual complexity and the sophistication of the tools used. Each project starts with a description of the problem addressed, followed by the methodology applied, and concludes with the results obtained. This progression demonstrates my growing expertise as we move from basic data handling to advanced machine learning and big data analysis.
 
-- [---](Projects/--/README.md)
+- [Level 1: EDA - Crime Records in Argentina](Featured%20Projects/EDA_Crime_Argentina.ipynb)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
