@@ -38,7 +38,8 @@ Welcome to my collection of study projects! Here, you'll find links to various G
 ### Projects and Courses
 
 - **[A/B Testing](Study%20Projects/A_B_Testing.ipynb)**: I dug into [A/B Testing] and uncovered some interesting insights using [Python].
-
+- **[Time Series Forecasting](Study%20Projects/Elect_Demand_Pred.ipynb)**: Experimented with different [time series forecasting models] to predict electricity demand. Learned a lot about time series analysis, model evaluation, and the importance of handling seasonality and trend components.
+  
 These projects are my way of sharing what I've been up to in the realm of data analytics. Feel free to check them out and see what I've learned along the way!
 
 ## Technical Skills
