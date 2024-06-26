@@ -27,7 +27,7 @@ Here, I showcase five data science projects, each escalating in conceptual compl
 
 - [Level 1: EDA - Crime Records in Argentina](Featured%20Projects/EDA_Crime_Argentina.ipynb)
 - [Level 2: Predicting Customer Churn and Monthly Charges](Featured%20Projects/Telco_Customer_Churn.ipynb)
-- [---](Projects/--/README.md)
+- [Level 3: Breast Cancer Prediction](Featured%20Projects/breast_cancer.ipynb)
 - [---](Projects/--/README.md)
 - [---](Projects/--/README.md)
 
